@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "meinkrafts.aternos.me",
-    "port": 27586,
+    "port": 64090,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol88"
     },
     "anti-afk": {
       "enabled": true,
